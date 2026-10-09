@@ -1,0 +1,16 @@
+Version 1.0. A private year plate for one mark a day.
+
+• One stroke for each day on a year matrix
+• Dip an ink from the tray, then lay the stroke in today's cell
+• The stroke commits when you lift
+• Peel only today
+• Quiet streak of laid days you kept
+• Analytics: consecutive laid days and ink mix
+• Twelve tray inks you can rename
+• Export plate
+• Reset plate
+• Contact Benday
+• Pinch to look closer at the year
+• Work stays on this device across launches
+
+Onboarding: One stroke for each day. Dip, then lay the stroke. Peel only today. Appearance is light only. Portrait only, on iPhone and iPad.
