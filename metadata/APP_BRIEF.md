@@ -1,4 +1,4 @@
-<!-- gf-brief source=4256f39ae35f2fe2abd01830d9eebfdc2eddba1fbb086d623c1749719a5dd8fd written=2026-10-09T13:25:35+03:00 -->
+<!-- gf-brief source=4256f39ae35f2fe2abd01830d9eebfdc2eddba1fbb086d623c1749719a5dd8fd written=2026-10-09T13:29:01+03:00 -->
 # Benday
 
 ## What it is
