@@ -33,6 +33,7 @@ targets:
         PRODUCT_BUNDLE_IDENTIFIER: com.benday.matrix
         PRODUCT_NAME: Benday
         GENERATE_INFOPLIST_FILE: 'YES'
+        INFOPLIST_KEY_NSUserTrackingUsageDescription: "We use this identifier to personalize your experience and measure app performance."
         INFOPLIST_FILE: Info.plist
         INFOPLIST_KEY_ITSAppUsesNonExemptEncryption: 'NO'
         INFOPLIST_KEY_CFBundleDisplayName: Spinochet
