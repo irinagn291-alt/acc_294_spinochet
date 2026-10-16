@@ -12,7 +12,6 @@
 		119032534C649A1361BE0FB4 /* YearCanvasController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7E71F455FE9193ACB291A4 /* YearCanvasController.swift */; };
 		1E15CB5BABD292D1CF3F372F /* GessoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 515C4271B017B30EC62CF550 /* GessoView.swift */; };
 		1FAB8BC749F1E1959C536149 /* Ink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39938D1EF44ED3353B9972C2 /* Ink.swift */; };
-		206701D4179A75ACB96AD792 /* AppsFlyerLib-Static in Frameworks */ = {isa = PBXBuildFile; productRef = 47DC1F2986B193AAA895B4DA /* AppsFlyerLib-Static */; };
 		24BA627383C8FB41AF966B0E /* PlateHostController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C01F232E689A44466922790E /* PlateHostController.swift */; };
 		2CD3F7F84091822500B54640 /* PeelMark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9155C624D43E7C412F63B4AA /* PeelMark.swift */; };
 		2ED261C49B1977A3CE7A994C /* BendayApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9FF6B45B83E5262D1594CEC /* BendayApp.swift */; };
@@ -94,7 +93,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				91885DF915C8726CFDC9AC79 /* Alamofire in Frameworks */,
-				206701D4179A75ACB96AD792 /* AppsFlyerLib-Static in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,7 +276,6 @@
 			name = Benday;
 			packageProductDependencies = (
 				2AAAA3566F6111464314D8BB /* Alamofire */,
-				47DC1F2986B193AAA895B4DA /* AppsFlyerLib-Static */,
 			);
 			productName = Benday;
 			productReference = D0D5E36DB755E455F1DAB983 /* Benday.app */;
@@ -330,7 +327,6 @@
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
 				350504A4FE3AA3D0A2F51966 /* XCRemoteSwiftPackageReference "Alamofire" */,
-				74FC05322CB54DC6C76D9898 /* XCRemoteSwiftPackageReference "AppsFlyerFramework-Static" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = C11CE116894CB9A4717C6269 /* Products */;
@@ -558,9 +554,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSUserTrackingUsageDescription = "We use this identifier to personalize your experience and measure app performance.";
 				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Spinochet;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
@@ -612,9 +607,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSUserTrackingUsageDescription = "We use this identifier to personalize your experience and measure app performance.";
 				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Spinochet;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
@@ -680,14 +674,6 @@
 				revision = 3ea8e93ec37a3ae5f255afb529ef20f438dd1903;
 			};
 		};
-		74FC05322CB54DC6C76D9898 /* XCRemoteSwiftPackageReference "AppsFlyerFramework-Static" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/AppsFlyerSDK/AppsFlyerFramework-Static";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 6.17.9;
-			};
-		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
@@ -695,11 +681,6 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 350504A4FE3AA3D0A2F51966 /* XCRemoteSwiftPackageReference "Alamofire" */;
 			productName = Alamofire;
-		};
-		47DC1F2986B193AAA895B4DA /* AppsFlyerLib-Static */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 74FC05322CB54DC6C76D9898 /* XCRemoteSwiftPackageReference "AppsFlyerFramework-Static" */;
-			productName = "AppsFlyerLib-Static";
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

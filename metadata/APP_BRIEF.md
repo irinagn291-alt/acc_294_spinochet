@@ -1,8 +1,8 @@
-<!-- gf-brief source=4256f39ae35f2fe2abd01830d9eebfdc2eddba1fbb086d623c1749719a5dd8fd written=2026-10-09T13:29:01+03:00 -->
-# Benday
+<!-- gf-brief source=4256f39ae35f2fe2abd01830d9eebfdc2eddba1fbb086d623c1749719a5dd8fd written=2026-10-12T07:21:01+03:00 -->
+# Spinochet
 
 ## What it is
-Benday is a private year plate for one mark a day. You dip an ink, draw one stroke for today, and the year fills so you can see how the days felt. It is for anyone who wants a quiet daily mark on this device, not a feed or an account.
+Spinochet is a private year plate for one mark a day. You dip an ink, draw one stroke for today, and the year fills so you can see how the days felt. It is for anyone who wants a quiet daily mark on this device, not a feed or an account.
 
 ## Launch and onboarding
 A system launch screen appears first. Appearance is light only.
@@ -119,8 +119,8 @@ A blank or spaces-only name is ignored; the old name stays. A name is kept up to
 
 Then three buttons:
 - **“Export plate”** opens the system share sheet with a copy of the plate. If export fails: **“The plate could not be exported. Try again.”** and **“Try again”** runs export again.
-- **“Reset plate”** shows **“Reset the Benday plate?”** and **“This wipe removes every laid day on the plate.”** with **“Cancel”** and **“Reset plate”**. Confirming wipes the year, dismisses the sheet, and returns you to onboarding.
-- **“Contact Benday”** opens the support page outside the app.
+- **“Reset plate”** shows **“Reset the Spinochet plate?”** and **“This wipe removes every laid day on the plate.”** with **“Cancel”** and **“Reset plate”**. Confirming wipes the year, dismisses the sheet, and returns you to onboarding.
+- **“Contact Spinochet”** opens the support page outside the app.
 
 If the tray has no inks:
 - **“The tray has no inks.”**
@@ -141,7 +141,7 @@ If the plate could not be opened and onboarding is not finished:
 - Twelve tray inks you can rename
 - Export plate
 - Reset plate
-- Contact Benday
+- Contact Spinochet
 - Pinch to look closer at the year
 - Work stays on this device across launches
 
@@ -173,7 +173,7 @@ None.
 Login or accounts, in-app purchase, ads, tracking analytics (the **“Analytics”** control is a local count of your plate only), public user-generated content, an account deletion flow, and an App Tracking Transparency prompt are absent. **“Reset plate”** is the local wipe.
 
 ## Data and support
-Data stays on this device unless you tap **“Export plate”** and share the copy yourself. **“Contact Benday”** on Settings opens the support page.
+Data stays on this device unless you tap **“Export plate”** and share the copy yourself. **“Contact Spinochet”** on Settings opens the support page.
 
 ## Scanning and health
 None. The app does not scan barcodes or QR codes. It does not show health, medical, or product-health information.

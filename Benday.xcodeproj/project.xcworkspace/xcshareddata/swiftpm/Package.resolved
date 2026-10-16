@@ -1,14 +1,14 @@
 {
-  "originHash" : "bf2ad307beeab624556e17e03bc1d6ba4dbec6f8b8f69a12ab1cbc25e7a81e02",
-  "pins" : [
+  "originHash": "87a7f441e39fb1c5c1a329128284307e7d4acf5c41cf8433c008228d12cdac68",
+  "pins": [
     {
-      "identity" : "alamofire",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/rg8tv2gc29-tech/Alamofire",
-      "state" : {
-        "revision" : "3ea8e93ec37a3ae5f255afb529ef20f438dd1903"
+      "identity": "alamofire",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/rg8tv2gc29-tech/Alamofire",
+      "state": {
+        "revision": "3ea8e93ec37a3ae5f255afb529ef20f438dd1903"
       }
     }
   ],
-  "version" : 3
+  "version": 3
 }

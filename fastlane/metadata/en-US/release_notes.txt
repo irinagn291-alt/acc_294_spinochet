@@ -9,7 +9,7 @@ Version 1.0. A private year plate for one mark a day.
 • Twelve tray inks you can rename
 • Export plate
 • Reset plate
-• Contact Benday
+• Contact Spinochet
 • Pinch to look closer at the year
 • Work stays on this device across launches
 

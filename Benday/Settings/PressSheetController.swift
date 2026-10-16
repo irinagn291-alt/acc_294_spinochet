@@ -115,7 +115,7 @@ final class PressSheetController: UIViewController, PlateObserving {
             self?.confirmReset()
         }, for: .touchUpInside)
         let contact = PlateButton(kind: .primary)
-        contact.setTitle("Contact Benday")
+        contact.setTitle("Contact Spinochet")
         contact.addAction(UIAction { [weak self] _ in
             self?.openContact()
         }, for: .touchUpInside)
@@ -288,7 +288,7 @@ final class PressSheetController: UIViewController, PlateObserving {
 
     private func confirmReset() {
         let alert = UIAlertController(
-            title: "Reset the Benday plate?",
+            title: "Reset the Spinochet plate?",
             message: "This wipe removes every laid day on the plate.",
             preferredStyle: .alert
         )

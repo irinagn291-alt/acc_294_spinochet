@@ -1,4 +1,4 @@
-Benday is a private year plate for one mark a day. You dip an ink, draw one stroke for today, and the year fills so you can see how the days felt. It is for anyone who wants a quiet daily mark on this device, not a feed or an account.
+Spinochet is a private year plate for one mark a day. You dip an ink, draw one stroke for today, and the year fills so you can see how the days felt. It is for anyone who wants a quiet daily mark on this device, not a feed or an account.
 
 • One stroke for each day on a year matrix
 • Dip an ink from the tray, then lay the stroke in today's cell
@@ -9,7 +9,7 @@ Benday is a private year plate for one mark a day. You dip an ink, draw one stro
 • Twelve tray inks you can rename
 • Export plate
 • Reset plate
-• Contact Benday
+• Contact Spinochet
 • Pinch to look closer at the year
 • Work stays on this device across launches
 
